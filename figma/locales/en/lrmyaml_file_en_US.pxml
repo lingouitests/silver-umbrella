@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string translate="1" segmentID="1" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>start</SID>
+    <value><![CDATA[start]]></value>
+  </string>
+  <string translate="1" segmentID="2" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>one_1</SID>
+    <value><![CDATA[one]]></value>
+  </string>
+  <string translate="1" segmentID="3" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>444_1</SID>
+    <value><![CDATA[444]]></value>
+  </string>
+  <string translate="1" segmentID="4" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>wednesda_1</SID>
+    <value><![CDATA[wednesday]]></value>
+  </string>
+  <string translate="1" segmentID="5" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>and_iop_counter</SID>
+    <value><![CDATA[and]]></value>
+  </string>
+  <string translate="1" segmentID="6" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>2310_jhjhjhjh_counter</SID>
+    <value><![CDATA[2310]]></value>
+  </string>
+</resources>
